@@ -1,4 +1,4 @@
-# **Minha trajetória e exercícios como Dev student**
+# **Minha trajetória e exercícios como Dev student** 👨‍💻
 
 ## Exercícios/ Estudos.
 
